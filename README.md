@@ -51,7 +51,7 @@ openh264	1.6.0</br>
 
 ##技术支持</br>
 anyRTC官方网址：https://www.anyrtc.io</br>
-QQ技术交流群：554714720</br>
+QQ技术交流群：554714720(已满) 2群：698167259</br>
 联系电话:021-65650071-816</br>
 Email:hi@dync.cc</br>
 
@@ -69,6 +69,9 @@ https://www.anyrtc.io/home/wawaji</br>
 实时直播包含“主播”与“游客”两种模式。</br>
 同时支持Web，Android，iOS三端实时直播。</br>
 https://www.anyrtc.io/demo/rtcp</br>
+
+##anyRTC开源新动态</br>
+公司考虑结合自身的技术特点对此开源项目进行升级改造
 
 ## License
 AnyRTC-RTMP is available under the GNU license. See the LICENSE file for more info.
